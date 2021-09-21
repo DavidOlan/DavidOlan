@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavidOlan
-- 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...web projects
-- 📫 How to reach me ... IG: @_david.olaniyi; E-mail Address: oltdavid04@gmail.com
+- 👀 I’m interested in Building Mobile-first/Responsive Web Applications with MERN Stack.
+- 🌱 I’m currently learning..CSS3
+- 💞️ I’m looking to collaborate on awesomeweb projects.
+- 📫 How to reach me : IG: @_david.olaniyi; E-mail Address: oltdavid04@gmail.com
    
 
 <!---
