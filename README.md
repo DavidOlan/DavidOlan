@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavidOlan
-- 👀 I’m interested in Building Mobile-first/Responsive Web Applications with MERN Stack.
-- 🌱 I’m currently learning..CSS3
+- 👀 I’m interested in Building Mobile-first/Responsive Web Applications.
+- 🌱 I’m currently learning..Js
 - 💞️ I’m looking to collaborate on awesome Web projects.
-- 📫 How to reach me : IG: @_david.olaniyi; E-mail Address: oltdavid04@gmail.com
+- 📫 How to reach me  E-mail Address: oltdavid04@gmail.com
    
 
 <!---
