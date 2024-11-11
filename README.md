@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DavidOlan
-- 👀 I’m interested in Building Mobile-first/Responsive Web Applications.
-- 🌱 I’m currently learning..Js
-- 💞️ I’m looking to collaborate on awesome Web projects.
-- 📫 How to reach me  E-mail Address: oltdavid04@gmail.com
+- 👋 Hi, I’m @DavidOlaniyi
+- 👀 I'm in love with building web apps
+- 🌱 I use Php (& Laravel), and sometimes Js.
    
 
 <!---
