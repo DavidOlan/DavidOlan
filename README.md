@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DavidOlaniyi
-- 👀 I'm in love with building web apps
-- 🌱 I use Php (& Laravel), and sometimes Js.
-   **I experinced a major data loss sometime last year
+**I experinced a major data loss sometime last year
      but I'd try to get as much as I can back on here.
 
 <!---
