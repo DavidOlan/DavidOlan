@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidOlaniyi
-**I experinced a major data loss sometime last year
+-**I experinced a major data loss sometime last year
      but I'd try to get as much as I can back on here.
 
 <!---
